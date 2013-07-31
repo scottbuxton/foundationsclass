@@ -15,3 +15,5 @@ This shows off my markdown skills
 * Or a footnote for our financial statements
 
 ![These are an example of financial statements](http://i.investopedia.com/inv/tutorials/site/financialstatements/financialstatements_7_7.gif)
+
+* The above is an example of a footnote for future minimum lease payments at a point in time summarized by fiscal years going forward.
