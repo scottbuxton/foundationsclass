@@ -4,6 +4,12 @@
 
 ###### ok i want to go smaller. how about this???
 
+* Plans for 8/4 consist of:
+  * Wine tasting
+  * Trying out my new bike
+
+
+
 
 foundationsclass
 ================
