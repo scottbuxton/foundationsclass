@@ -8,6 +8,8 @@
   * Wine tasting
   * Trying out my new bike
 
+![Kaep 7](http://cdn2.business2community.com/wp-content/uploads/2013/03/01-12-2013-colin-kaepernick-3_4_r536_c534.jpg)
+
 
 
 
